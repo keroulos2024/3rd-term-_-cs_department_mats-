@@ -1,0 +1,48 @@
+term 1 : 
+
+
+
+#Common Courses || Semester 5
+ودي شوية لينكات للمواد المشتركة 
+
+Operating Systems
+- Lectures Records 2025
+> https://youtube.com/playlist?list=PLpfYfulQlEPyavmKP24AhTtdzD2OZ-qgk&si=usFonRWCfVWZ-KKm
+
+- Labs by Dr. Ahmed Salah
+> https://youtube.com/playlist?list=PLVmeeqIdXG3ubsFQf8M4LjrcO-WDKsER-&si=9MPsSLQUBcrFaFms
+
+- Sheets Solution by Ahmed Mubarak
+> https://youtube.com/playlist?list=PLPrxSrCB7xX839mSNuG9BgDI53CWPIgP7&si=lS6LyMT74IvAhwGl
+
+- Problem Sessions'25
+> https://youtube.com/playlist?list=PLpfYfulQlEPyqVD4VVw3HtdLb8DGBqIKb&si=lEVNw4jEeMgTV2x2
+
+- Revision by Ahmed Magdy
+> https://youtube.com/playlist?list=PLb_flT6S09xFvUOx2THI1FUAxTE3zHDuv&si=CyxxyeP33R6wJ_Hv
+
+- Kareem Ramadan Videos 
+> https://youtube.com/playlist?list=PLFsv0Qu7U7aBgbH1TWk9Lb6RHnaT9axN9&si=IdAtxEKGLqygi7fm
+
+- Labs by FCIS Encapsulation
+> https://youtube.com/playlist?list=PLwMDC6s3ODvIB9xJcUpt4v7S2b0FdqL0d&si=XPPZJYnlWC5axGFG
+---------------------------------------------------------
+System Analysis & Design
+SAAD Lectures by Aya
+> https://youtube.com/playlist?list=PLW24nqbaBDlTSXczhE4NN6C7a1L9U0fHm&si=yNHpvBeSUwlGPP-V
+
+SAAD Lectures by Eyad
+> https://youtube.com/playlist?list=PLITnyKsguk5lE1hogX8jfaIJVzRVcrkos&si=RSpArY7_yNFgsRgl
+
+SAAD Revision by Mohammed
+> https://youtube.com/playlist?list=PLuK_8JgWVaTFHKKODsy9EIOlyfsQAa-Gz&si=245Nu5GnGC91WwTd
+
+SAAD Labs by Dr. Seif
+> https://youtube.com/playlist?list=PL45PIW0mBacgA_AEC5N2oXyVYn1oUAg7p&si=GPLZHkGu09nZP1rl
+---------------------------------------------------------
+Computer Networks
+Networks Lectures by Jihad
+> https://youtube.com/playlist?list=PLJLhMygEmQDXbwjHc0S2gbZt6EOUdhEbB&si=A1L2pMZqqaxSB2aU
+
+Networks Labs by Jihad
+> https://youtube.com/playlist?list=PLJLhMygEmQDVKJbL31PH7DJZX35xdkhHs&si=KL_8eEqIy8LsMmnW
