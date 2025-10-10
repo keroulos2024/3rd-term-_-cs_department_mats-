@@ -39,6 +39,10 @@ SAAD Revision by Mohammed
 
 SAAD Labs by Dr. Seif
 > https://youtube.com/playlist?list=PL45PIW0mBacgA_AEC5N2oXyVYn1oUAg7p&si=GPLZHkGu09nZP1rl
+
+
+  [Lectures by FCIS on YouTube](https://youtu.be/Q1CTrthL-pg?si=DXTr8Xhif8g6dKL1)
+
 ---------------------------------------------------------
 Computer Networks
 Networks Lectures by Jihad
